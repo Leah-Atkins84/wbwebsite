@@ -1,0 +1,34 @@
+header{
+    background-color:rgb(204,0,0);
+    color: white;
+    font-family: "helvetica";
+    padding: 0px 10px 20px;
+    margin: auto;
+
+    }
+
+.top-elements {
+    flex-direction: row;
+    align-items: flex-start;
+
+  }
+
+.search-box {
+    border: 2px solid white;
+    border-radius: 20px 20px 20px 20px;
+    background-color: white;
+    color: grey;
+
+}
+
+.location{
+    background-color: white;
+    color: grey;
+
+}
+
+.ads{
+    background-color: rgb(60, 165, 110);
+    color: white;
+    padding: 50px 50px 500px;
+}
